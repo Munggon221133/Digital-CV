@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Digital Profile
 
-You can use the [editor on GitHub](https://github.com/Munggon221133/Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+สวัสดีครับ ผมชื่อนายณัฐธีร์ พิมพ์ภสันต์ ผมจัดทำ Digital Profile ขึ้นเพื่อนำเสนอข้อมูลเกี่ยวกับประวัติส่วนตัว ความรู้ ความสามารถ ทักษะ ตลอดจน พัฒนาการและกิจกรรมต่างๆของผม ผมชอบในการที่จะเรียนรู้สิ่งใหม่ๆ และเรียนรู้ภาษา ปัจจุบันผมได้เรียนรู้ภาษาอังกฤษ ภาษาจีน และยังมีภาษาญี่ปุ่น และชอบในเรื่องของการเขียนโปรแกรม และชอบออกกำลังกายเป็นพิเศษ พร้อมทั้งมีงานอดิเรก คืออ่านหนังสือ ศึกษาเรื่องหุ้น และทำการตลาดเปิดธุรกิจออนไลน์
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
