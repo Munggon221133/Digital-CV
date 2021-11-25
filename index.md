@@ -2,36 +2,66 @@
 
 สวัสดีครับ ผมชื่อนายณัฐธีร์ พิมพ์ภสันต์ ผมจัดทำ Digital Profile ขึ้นเพื่อนำเสนอข้อมูลเกี่ยวกับประวัติส่วนตัว ความรู้ ความสามารถ ทักษะ ตลอดจน พัฒนาการและกิจกรรมต่างๆของผม ผมชอบในการที่จะเรียนรู้สิ่งใหม่ๆ และเรียนรู้ภาษา ปัจจุบันผมได้เรียนรู้ภาษาอังกฤษ ภาษาจีน และยังมีภาษาญี่ปุ่น และชอบในเรื่องของการเขียนโปรแกรม และชอบออกกำลังกายเป็นพิเศษ พร้อมทั้งมีงานอดิเรก คืออ่านหนังสือ ศึกษาเรื่องหุ้น และทำการตลาดเปิดธุรกิจออนไลน์
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## ประวัติส่วนตัว
 ```markdown
-Syntax highlighted code block
+ชื่อ :        นายณัฐธีร์ พิมพ์ภสันต์
+ชื่อเล่น :     มังกร
+เกิดวันที่ :    2 กันยายน พ.ศ.2545
+อายุ :       19
+สัญชาติ :    ไทย
 
-# Header 1
-## Header 2
-### Header 3
+การศึกษา 
+สถานศึกษา : มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต
+คณะ :      วิทยาลัยสหวิทยาการ
+สาขา :      วิทยาลัย/วิทยาศาสตร์ข้อมูล วท.บ.วิทยาศาสตร์และนวัตกรรมข้อมูล
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Skill - ความสามารถ
+ทักษะการพูด ----------------62%
+ทักษะภาษาจีน ---------------------76%
+ทักษะภาษาอังกฤษ -------------65%
+ทักษะการเขียนโค้ด -------52%
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## ประวัติการศึกษา
+ระดับมัถยมศึกษาตอนต้น - ปลาย
+- บดินทรเดชา(สิงห์ สิงหเสนี)๒
 
-### Jekyll Themes
+ระดับอุดมศึกษา
+- มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Munggon221133/Digital-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## ผลงานทางด้านวิชาการ 
+วันที่ 27 กันยายน 2559
+- เข้าร่วมกิจกรรมค่ายคณิตศาสตร์
+![T1](https://user-images.githubusercontent.com/89396698/143468009-8c46623d-ca9c-4803-85a5-6e614a146cfc.jpg)
 
-### Support or Contact
+วันที่ 11 มกราคม 2561
+- แข่งขันตอบปัญหาคณิตศาสตร์
+![T2](https://user-images.githubusercontent.com/89396698/143468406-c618c423-3430-4b1a-a53b-cbb338d66382.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+วันที่ 9 สิงหาคม 2561
+- แข่งขัน A-Math Champpionchip
+![T3](https://user-images.githubusercontent.com/89396698/143468859-d75b33cc-2638-4bce-abee-875f6424e8a3.jpg)
+
+วันที่ 21 สิงหาคม 2561
+- เข้าร่วมการแสดงโชว์ทดลองวิทยาศาสตร์ SCI-Show
+
+วันที่ 10 มิถุนายน 2562
+- เข้าร่วมแข่งขันตอบปัญหาวิทยาศาสตร์
+
+วันที่ 11 ธันวาคุม 2562
+- เข้าร่วมการแข่งขันโครงงานวิทยาศาสตร์
+
+## Contact
+- Tel : 08 3919 5251
+- Email : Nuttee02092545@gmail.com
+- IG : https://instagram.com/nutteenutteenuttee?utm_medium=copy_link
+- Facebook : https://www.facebook.com/nuttee.pimpason
+
+## Hobi
+```markdown
+- Coding
+- Read
+- Music
+- Traveling
+- Workout
+```
